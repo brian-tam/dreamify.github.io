@@ -1,29 +1,26 @@
-# Dreamify Website
+# Dreamify Privacy Policy
 
-This repository contains the website for Dreamify, an iOS app that allows users to transform their photos with AI-powered artistic styles.
+This repository contains the privacy policy for the Dreamify app, which is hosted on GitHub Pages.
+
+## Overview
+
+Dreamify is an iOS/Android application that allows users to upload pictures and apply AI-generated styles to their photos. This repository hosts the privacy policy and legal documentation required for app store submissions.
 
 ## Contents
 
-- `index.html` - Main landing page
-- `privacy.html` - Privacy policy page
+- `index.html` - The main privacy policy page
+- `styles.css` - Styling for the privacy policy page
 
-## Deployment to GitHub Pages
+## Deployment
 
-To deploy this website to GitHub Pages:
-
-1. Push this repository to GitHub
-2. Go to the repository settings on GitHub
-3. Scroll down to the "GitHub Pages" section
-4. Under "Source", select the branch you want to deploy (usually "main" or "master")
-5. Click "Save"
-6. GitHub will provide you with the URL where your site is published
-
-Once deployed, the site will be available at: `https://[your-username].github.io/DreamifySite/`
-
-## Local Development
-
-To preview the site locally, simply open the HTML files in your browser.
+This site is deployed using GitHub Pages. The live version can be accessed at: https://[your-github-username].github.io/DreamifySite/
 
 ## Contact
 
-For any inquiries, please contact: brian@briantam.co
+For any questions regarding the privacy policy or the app, please contact:
+
+- Email: brian@briantam.co
+
+## License
+
+© 2024 Brian Tam. All rights reserved.
